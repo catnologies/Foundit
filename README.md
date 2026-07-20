@@ -1,13 +1,9 @@
 # Foundit
 Foundit brings fast, in-place search to macOS Finder. Search the current Finder folder without opening a new tab or leaving your workflow. Launch with a shortcut, type a file or folder name, and jump through matching results instantly. Lightweight, fast, and built to feel native on macOS.
 
-# Foundit
-
-Foundit brings fast, in-place search to macOS Finder. Search the current Finder folder without opening a new tab or leaving your workflow.
-
 ## Preview
 
-<!-- Drag your MP4 video here in GitHub’s editor -->
+https://github.com/user-attachments/assets/ed7d84f3-9efb-49ff-842d-7bc7bf962f7c
 
 ## How it works
 
