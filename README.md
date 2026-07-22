@@ -5,6 +5,9 @@ Foundit brings fast, in-place search to macOS Finder. Search the current Finder 
 
 https://github.com/user-attachments/assets/ed7d84f3-9efb-49ff-842d-7bc7bf962f7c
 
+<img width="1254" height="1254" alt="Generated image 1 (3)" src="https://github.com/user-attachments/assets/7cd8c5b5-b76d-42a4-aa0a-8f68cb26c51d" />
+
+
 ## How it works
 
 1. Open a Finder folder.
